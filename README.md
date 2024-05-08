@@ -1,2 +1,2 @@
 # Mi-primer-Repositorio
-Repositorio de Prueba modulo 2
+Este proyecto es una prueba de como crear un repositorio en github y vincularlo a mi computadora. 
